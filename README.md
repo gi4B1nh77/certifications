@@ -10,7 +10,7 @@ A collection of my professional certifications and credential verification links
 - [CertNexus Certified Ethical Emerging Technologist Specialization](https://www.coursera.org/account/accomplishments/specialization/P7M67QQQXDEC)
 ## Language
 
-- IELTS — Overall 6.5 — 07/2026
+- IELTS — Overall 6.5 — 06/2026
 
 ## Verification
 
