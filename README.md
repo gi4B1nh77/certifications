@@ -4,11 +4,7 @@ A collection of my professional certifications and credential verification links
 
 ## Cybersecurity
 
-- CCNAv7
-- CyberOps Associate
-- CertNexus Certified Ethical Emerging Technologist Specialization
-- Applied Cryptography Specialization
-- Microsoft Certified: Security Operations Analyst Associate
+- Microsoft Certified: Security Operations Analyst Associate: - [Microsoft Certified: Security Operations Analyst Associate](LINK_VERIFY) — 07/2025
 
 ## Language
 
