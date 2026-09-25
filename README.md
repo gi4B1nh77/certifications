@@ -4,11 +4,11 @@ A collection of my professional certifications and credential verification links
 
 ## Cybersecurity
 
-- Microsoft Certified: Security Operations Analyst Associate: - [Microsoft Certified: Security Operations Analyst Associate](LINK_VERIFY) — 07/2025
+- [Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/vi-vn/BnhNguyn-2419/8A10A0D6EB0F3E0?sharingId=6B982EDCD851991B)
 
 ## Language
 
-- IELTS — Overall 6.5 — 05/2025
+- IELTS — Overall 6.5 — 07/2026
 
 ## Verification
 
